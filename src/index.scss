@@ -8,10 +8,9 @@ body,html{
 .wrapper{
   background-color: $b_g;
   .title{
-    background-color: black;
+    background-color: #000000;
     font-size: 58px;
-    color: yellow;
-    border: 1px solid yellow;
-
+    color: #ffff00;
+    border: 3px solid #2e145e;
   }
 }
